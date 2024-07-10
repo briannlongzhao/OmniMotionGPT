@@ -14,7 +14,8 @@ Our work aims to generate diverse and realistic animal motion sequences from tex
 
 - Training and evulation scripts are provided in the ``OmGPT\motion_mapping`` folder. 
 - Data pre-process tools are provided in the ``OmGPT\data_process`` foler. 
-- The whole dataset is included in the ``data`` foler. 
+- The whole dataset is included in the ``data`` foler.
+- The motion sequences (in .obj files) can be downloaded from "http://download.innopeaktech.com/public2/animals_smal_obj.tar"
 
 ## Installation & Use
 
