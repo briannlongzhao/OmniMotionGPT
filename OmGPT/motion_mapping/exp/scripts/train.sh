@@ -1,7 +1,7 @@
 # train again after the data processing
 cd /OmGPT/motion_mapping/exp/
 
-CUDA_VISIBLE_DEVICES=6                  \
+CUDA_VISIBLE_DEVICES=0                  \
 python3 train.py                        \
         --data_debug            0       \
         --save_path     ../../_runtime/motion_mapping/exp05/train05  \
